@@ -11,6 +11,8 @@ Problems most commonly arise are defects in the casts. We have done this project
 We have used over half a dozen machine learning algorithms and then used them to make the ensemble classifier for this purpose.
 
 For now, we have only implemented the code to differentiate defects from non-defects. Future advancements could include finding out what type of defect is actually present.
+
+THE DATASET HAS BEEN TAKEN FROM THE FOLLOWING KAGGLE LINK: https://www.kaggle.com/code/ginsaputra/visual-inspection-of-casting-products-using-cnn/notebook
 For further details on the project kindly have a look at the project report.
 
 For queries, contact me at my email: manasrpandya@gmail.com 
